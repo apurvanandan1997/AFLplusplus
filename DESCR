@@ -1,23 +1,4 @@
-# american fuzzy lop plus plus (afl++)
-
-  ![Travis State](https://api.travis-ci.com/vanhauser-thc/AFLplusplus.svg?branch=master)
-
-  AFLplusplus is the son of the American Fuzzy Lop fuzzer, created initially to incorporate all the best 
-  features developed in the years for the fuzzers in the AFL family and not merged in AFL cause it is not
-  updated since November 2017.
- 
-  Release Version: 2.62c
-
-  Github Version: 2.62d
-
-  Includes all necessary/interesting changes from Google's afl 2.56b
-
-  Originally developed by Michal "lcamtuf" Zalewski.
-
-  Repository: [https://github.com/vanhauser-thc/AFLplusplus](https://github.com/vanhauser-thc/AFLplusplus)
-
-  afl++ is maintained by:
-    * Marc "van Hauser" Heuse <mh@mh-sec.de>,
-    * Heiko "hexcoder-" Eißfeldt <heiko.eissfeldt@hexco.de>,
-    * Andrea Fioraldi <andreafioraldi@gmail.com> and
-...
+AFLplusplus is an upgrade to the American Fuzzy Lop fuzzer, created initially
+to incorporate all the best features developed in the years for the fuzzers
+in the AFL family and not merged in AFL cause it is not updated since
+November 2017.
