@@ -1,12 +1,14 @@
 # $NetBSD$
 
+PKGNAME=	afl++-2.62c
 DISTNAME=	AFLplusplus-2.62c
+GITHUB_PROJECT=	AFLplusplus
 CATEGORIES=	devel
 MASTER_SITES=	${MASTER_SITE_GITHUB:=AFLplusplus/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/AFLplusplus/AFLplusplus/
-COMMENT=	American Fuzzy Lop++, a fuzzing tool for finding bugs by random input
+COMMENT=	American Fuzzy Lop ++, a fuzzing tool for finding bugs by random input
 LICENSE=	apache-2.0
 
 .include "../../lang/python/pyversion.mk"
